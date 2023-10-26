@@ -1,6 +1,6 @@
 Program Name :- CAKE MENIA (Android Application)<br>
-Status :- Completed
-Developed with :- Java, Firebase, Android Studio
-Features :- CRUD operations, Authentication, Image uploading/cropping............................
-Goal :- Get into mobile app development with Android Studio
-Previews :-
+Status :- Completed<br>
+Developed with :- Java, Firebase, Android Studio<br>
+Features :- CRUD operations, Authentication, Image uploading/cropping............................<br>
+Goal :- Get into mobile app development with Android Studio<br>
+Previews :-<br>
